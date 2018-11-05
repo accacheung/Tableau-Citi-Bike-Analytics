@@ -9,6 +9,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 Data Range: From January to June, 2018
 
 Data Source: https://www.citibikenyc.com/system-data
+(Used 'CitiBike_Data_JantoJun_2018_Combined.ipynb' to combine large monthly datasets) 
 
 Goal: Implementing dashboards to oversee the largest bike sharing program in the United Sates.
 
@@ -18,5 +19,5 @@ Goal: Implementing dashboards to oversee the largest bike sharing program in the
 https://public.tableau.com/profile/acca.cheung#!/vizhome/CitiBikeAnalyticsDashboards/Dashboard_Trips_Demand
 
 
-## Or see Citi Bike Analytics Report
+## Or see Analytics Report
 https://github.com/accacheung/Tableau-Citi-Bike-Analytics/blob/master/Citi%20Bike%20Analytics%20Report.pdf
