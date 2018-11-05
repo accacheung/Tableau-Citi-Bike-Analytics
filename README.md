@@ -19,3 +19,4 @@ https://public.tableau.com/profile/acca.cheung#!/vizhome/CitiBikeAnalyticsDashbo
 
 
 ## Or see Citi Bike Analytics Report
+https://github.com/accacheung/Tableau-Citi-Bike-Analytics/blob/master/Citi%20Bike%20Analytics%20Report.pdf
